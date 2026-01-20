@@ -1,0 +1,89 @@
+{
+  "company": {
+    "name": "Jesse's Lawn Care",
+    "tagline": "At Your Service!",
+    "description": "With over 25 years experience, Jesse's Lawn Care brings professional, quality, and personal lawn care to the Madison and Dane County area. We understand the importance of a well-manicured lawn and treat each and every lawn like it is our own, carefully grooming and maintaining each lawn.",
+    "phone": "608-514-4260",
+    "email": "Jesse@Jesseslawncare.com",
+    "address": "Madison, WI",
+    "hours": null
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768946562/auto-site-builder/Jesse%27s%20Lawn%20Care/image_0.jpg",
+    "primaryColor": "#22c55e",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Welcome To Jesse's Lawn Care",
+    "subheadline": "With over 25 years experience, Jesse's Lawn Care brings professional, quality, and personal lawn care to the Madison and Dane County area.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1743020414634-7f9e0550ba5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGF3JTIwb2ZmaWNlJTIwaW50ZXJpb3IlMjBwcm9mZXNzaW9uYWx8ZW58MHwwfHx8MTc2ODk0NjQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "At Jesse's Lawn Care we understand the importance of a well-manicured lawn. A good-looking lawn not only gives your home or business great curb appeal and is aesthetically pleasing, but it can also raise the value of the property. There is a great deal of pride that goes into your lawn, and nobody understands that more than Jesse's Lawn Care. We realize there is a need for professional, dependable, and personable lawn care. We treat each and every lawn like it is our own, carefully grooming and maintaining each lawn. You can always count on Jesse's to make every effort to guarantee your lawn gets the attention it deserves every time, on time.",
+      "image": "https://plus.unsplash.com/premium_photo-1661315485321-8e0310da42d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGVnYWwlMjBjb25zdWx0YXRpb24lMjBtZWV0aW5nfGVufDB8MHx8fDE3Njg5MjA4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "values": [
+        {
+          "title": "25+ Years Experience",
+          "description": "Professional lawn care expertise serving Madison and Dane County"
+        },
+        {
+          "title": "Personal Attention",
+          "description": "We listen to your needs and accommodate each customer individually"
+        },
+        {
+          "title": "Professional & Dependable",
+          "description": "Quality service you can count on, every time, on time"
+        }
+      ]
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Get Estimate",
+      "href": "/about"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Jesse's Lawn Care. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Jesse's Lawn Care - Home",
+    "description": null
+  }
+}
