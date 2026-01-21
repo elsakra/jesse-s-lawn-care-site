@@ -2,7 +2,7 @@
   "company": {
     "name": "Jesse's Lawn Care",
     "tagline": "At Your Service!",
-    "description": "Jesse's Lawn Care is family-owned and operated right here in Madison, WI, with over 25 years experience. We originated out of Jesse's Lawn Service, founded in 1989 by Millard Engelkins, from Dubuque, IA. Our owner, Jesse Engelkins, started his lawn servicing career at the age of 8 years old. After many years of experience, Jesse's Lawn Care has been serving the greater Madison and Dane County area for over 7 years.",
+    "description": "Jesse's Lawn Care is family-owned and operated right here in Madison, WI, with over 25 years experience. We originated out of Jesse's Lawn Service, founded in 1989 by Millard Engelkins, from Dubuque, IA. Our owner, Jesse Engelkins, started his lawn servicing career at the age of 8 years old. After many years of experience, Jesse's Lawn Care has been serving the greater Madison and Dane County area for over 7 years. Jesse is eager to serve the Madison area has been setting the standard as a fast, friendly, dependable, and quality lawn care provider.",
     "phone": "608-514-4260",
     "email": "Jesse@Jesseslawncare.com",
     "address": "Madison, WI",
@@ -38,8 +38,8 @@
           "description": "We will take the time to listen your needs and concerns. What you have to say is very important to us."
         },
         {
-          "title": "Quality Service",
-          "description": "You can always count on Jesse's to make every effort to guarantee your lawn gets the attention it deserves every time, on time."
+          "title": "25+ Years Experience",
+          "description": "Setting the standard as a fast, friendly, dependable, and quality lawn care provider."
         }
       ]
     },

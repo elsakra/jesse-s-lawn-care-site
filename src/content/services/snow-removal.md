@@ -1,11 +1,11 @@
 ---
 title: "Snow Removal"
-shortDescription: "Snow removal service for winter maintenance."
-image: "https://plus.unsplash.com/premium_photo-1661729685861-6d1c647e71fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8bGVnYWwlMjBjb25zdWx0YXRpb24lMjBtZWV0aW5nfGVufDB8MHx8fDE3NjkwMzE2NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+shortDescription: "Snow removal services"
+image: "https://plus.unsplash.com/premium_photo-1743020414395-71cd641d7396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8YXR0b3JuZXklMjBvZmZpY2UlMjBtb2Rlcm58ZW58MHwwfHx8MTc2OTAzMjU0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
 
 
 
 order: 5
 ---
 
-Snow removal service for winter maintenance.
+Snow removal services

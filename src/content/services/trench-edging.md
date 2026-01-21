@@ -1,11 +1,11 @@
 ---
 title: "Trench Edging"
-shortDescription: "Trench edging service for lawn maintenance."
-image: "https://plus.unsplash.com/premium_photo-1661333952707-38323a7e73eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTN8fGxlZ2FsJTIwY29uc3VsdGF0aW9uJTIwbWVldGluZ3xlbnwwfDB8fHwxNzY5MDMxNjUxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+shortDescription: "Trench edging services"
+image: "https://plus.unsplash.com/premium_photo-1743020414411-e0c24b154432?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTN8fGF0dG9ybmV5JTIwb2ZmaWNlJTIwbW9kZXJufGVufDB8MHx8fDE3NjkwMzI1NDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
 
 
 
 order: 13
 ---
 
-Trench edging service for lawn maintenance.
+Trench edging services

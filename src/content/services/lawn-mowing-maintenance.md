@@ -1,7 +1,7 @@
 ---
 title: "Lawn Mowing & Maintenance"
-shortDescription: "Weekly lawn mowing service with trimming, edging, and cleanup."
-image: "https://plus.unsplash.com/premium_photo-1661315485321-8e0310da42d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGVnYWwlMjBjb25zdWx0YXRpb24lMjBtZWV0aW5nfGVufDB8MHx8fDE3NjkwMzE2NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+shortDescription: "Weekly lawn mowing service with trimming, edging, and cleanup"
+image: "https://plus.unsplash.com/premium_photo-1743020414456-aaaa3aebf10f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YXR0b3JuZXklMjBvZmZpY2UlMjBtb2Rlcm58ZW58MHwwfHx8MTc2OTAzMjU0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
 
 
 features:
@@ -13,4 +13,4 @@ features:
 order: 1
 ---
 
-Weekly lawn mowing service includes a fresh-cut lawn at proper height to promote growth, trimming around all obstacles, edging in applicable areas, removal of lawn clippings from landscaping, sidewalks, decks, porches, and driveways, and free disposal of small yard waste.
+Weekly lawn mowing service includes a fresh-cut lawn at proper height to promote growth, trimming around obstacles, edging in applicable areas, removal of clippings from landscaping/sidewalks/decks/porches/driveways, and free disposal of small yard waste
