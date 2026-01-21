@@ -264,45 +264,22 @@ declare module 'astro:content' {
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
 };
-"team": {
-"jesse-engelkins.md": {
-	id: "jesse-engelkins.md";
-  slug: "jesse-engelkins";
+"team": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-"millard-engelkins.md": {
-	id: "millard-engelkins.md";
-  slug: "millard-engelkins";
-  body: string;
-  collection: "team";
-  data: InferEntrySchema<"team">
-} & { render(): Render[".md"] };
-};
-"testimonials": {
-"christy-langheim.md": {
-	id: "christy-langheim.md";
-  slug: "christy-langheim";
+  data: InferEntrySchema<"team">;
+  render(): Render[".md"];
+}>;
+"testimonials": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "testimonials";
-  data: InferEntrySchema<"testimonials">
-} & { render(): Render[".md"] };
-"google-user.md": {
-	id: "google-user.md";
-  slug: "google-user";
-  body: string;
-  collection: "testimonials";
-  data: InferEntrySchema<"testimonials">
-} & { render(): Render[".md"] };
-"guy-lofts.md": {
-	id: "guy-lofts.md";
-  slug: "guy-lofts";
-  body: string;
-  collection: "testimonials";
-  data: InferEntrySchema<"testimonials">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"testimonials">;
+  render(): Render[".md"];
+}>;
 
 	};
 
