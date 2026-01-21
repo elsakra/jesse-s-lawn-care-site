@@ -148,56 +148,54 @@ declare module 'astro:content' {
   data: InferEntrySchema<"blog">;
   render(): Render[".md"];
 }>;
-"case-results": {
-"breach-of-contract.md": {
-	id: "breach-of-contract.md";
-  slug: "breach-of-contract";
+"case-results": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "case-results";
-  data: InferEntrySchema<"case-results">
-} & { render(): Render[".md"] };
-"emergency-injunction.md": {
-	id: "emergency-injunction.md";
-  slug: "emergency-injunction";
-  body: string;
-  collection: "case-results";
-  data: InferEntrySchema<"case-results">
-} & { render(): Render[".md"] };
-"executive-severance.md": {
-	id: "executive-severance.md";
-  slug: "executive-severance";
-  body: string;
-  collection: "case-results";
-  data: InferEntrySchema<"case-results">
-} & { render(): Render[".md"] };
-};
-"faq": {
-"do-you-offer-free-consultations.md": {
-	id: "do-you-offer-free-consultations.md";
-  slug: "do-you-offer-free-consultations";
+  data: InferEntrySchema<"case-results">;
+  render(): Render[".md"];
+}>;
+"faq": Record<string, {
+  id: string;
+  slug: string;
   body: string;
   collection: "faq";
-  data: InferEntrySchema<"faq">
-} & { render(): Render[".md"] };
-"how-does-intake-work.md": {
-	id: "how-does-intake-work.md";
-  slug: "how-does-intake-work";
-  body: string;
-  collection: "faq";
-  data: InferEntrySchema<"faq">
-} & { render(): Render[".md"] };
-"how-long-does-a-case-take.md": {
-	id: "how-long-does-a-case-take.md";
-  slug: "how-long-does-a-case-take";
-  body: string;
-  collection: "faq";
-  data: InferEntrySchema<"faq">
-} & { render(): Render[".md"] };
-};
+  data: InferEntrySchema<"faq">;
+  render(): Render[".md"];
+}>;
 "services": {
 "core-aeration.md": {
 	id: "core-aeration.md";
   slug: "core-aeration";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"debris-removal.md": {
+	id: "debris-removal.md";
+  slug: "debris-removal";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"dethatching.md": {
+	id: "dethatching.md";
+  slug: "dethatching";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"edging.md": {
+	id: "edging.md";
+  slug: "edging";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"hand-weeding.md": {
+	id: "hand-weeding.md";
+  slug: "hand-weeding";
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">
@@ -209,9 +207,37 @@ declare module 'astro:content' {
   collection: "services";
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
+"minor-landscaping.md": {
+	id: "minor-landscaping.md";
+  slug: "minor-landscaping";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"mulch-sales-installation.md": {
+	id: "mulch-sales-installation.md";
+  slug: "mulch-sales-installation";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"overseeding-grass-seeding-stitching.md": {
+	id: "overseeding-grass-seeding-stitching.md";
+  slug: "overseeding-grass-seeding-stitching";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
 "shrub-pruning-trimming.md": {
 	id: "shrub-pruning-trimming.md";
   slug: "shrub-pruning-trimming";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"snow-removal.md": {
+	id: "snow-removal.md";
+  slug: "snow-removal";
   body: string;
   collection: "services";
   data: InferEntrySchema<"services">
@@ -223,29 +249,130 @@ declare module 'astro:content' {
   collection: "services";
   data: InferEntrySchema<"services">
 } & { render(): Render[".md"] };
+"tree-pruning.md": {
+	id: "tree-pruning.md";
+  slug: "tree-pruning";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
+"trench-edging.md": {
+	id: "trench-edging.md";
+  slug: "trench-edging";
+  body: string;
+  collection: "services";
+  data: InferEntrySchema<"services">
+} & { render(): Render[".md"] };
 };
 "team": {
-"jesse.md": {
-	id: "jesse.md";
-  slug: "jesse";
+"jesse-engelkins.md": {
+	id: "jesse-engelkins.md";
+  slug: "jesse-engelkins";
+  body: string;
+  collection: "team";
+  data: InferEntrySchema<"team">
+} & { render(): Render[".md"] };
+"millard-engelkins.md": {
+	id: "millard-engelkins.md";
+  slug: "millard-engelkins";
   body: string;
   collection: "team";
   data: InferEntrySchema<"team">
 } & { render(): Render[".md"] };
 };
-"testimonials": Record<string, {
-  id: string;
-  slug: string;
+"testimonials": {
+"christy-langheim.md": {
+	id: "christy-langheim.md";
+  slug: "christy-langheim";
   body: string;
   collection: "testimonials";
-  data: InferEntrySchema<"testimonials">;
-  render(): Render[".md"];
-}>;
+  data: InferEntrySchema<"testimonials">
+} & { render(): Render[".md"] };
+"google-user.md": {
+	id: "google-user.md";
+  slug: "google-user";
+  body: string;
+  collection: "testimonials";
+  data: InferEntrySchema<"testimonials">
+} & { render(): Render[".md"] };
+"guy-lofts.md": {
+	id: "guy-lofts.md";
+  slug: "guy-lofts";
+  body: string;
+  collection: "testimonials";
+  data: InferEntrySchema<"testimonials">
+} & { render(): Render[".md"] };
+};
 
 	};
 
 	type DataEntryMap = {
-		
+		"athletics": Record<string, {
+  id: string;
+  collection: "athletics";
+  data: any;
+}>;
+"events": Record<string, {
+  id: string;
+  collection: "events";
+  data: any;
+}>;
+"faculty": Record<string, {
+  id: string;
+  collection: "faculty";
+  data: any;
+}>;
+"industries": Record<string, {
+  id: string;
+  collection: "industries";
+  data: any;
+}>;
+"insights": Record<string, {
+  id: string;
+  collection: "insights";
+  data: any;
+}>;
+"listings": Record<string, {
+  id: string;
+  collection: "listings";
+  data: any;
+}>;
+"locations": Record<string, {
+  id: string;
+  collection: "locations";
+  data: any;
+}>;
+"menu": Record<string, {
+  id: string;
+  collection: "menu";
+  data: any;
+}>;
+"news": Record<string, {
+  id: string;
+  collection: "news";
+  data: any;
+}>;
+"portfolio": Record<string, {
+  id: string;
+  collection: "portfolio";
+  data: any;
+}>;
+"pricing-plans": Record<string, {
+  id: string;
+  collection: "pricing-plans";
+  data: any;
+}>;
+"products": Record<string, {
+  id: string;
+  collection: "products";
+  data: any;
+}>;
+"programs": Record<string, {
+  id: string;
+  collection: "programs";
+  data: any;
+}>;
+
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
